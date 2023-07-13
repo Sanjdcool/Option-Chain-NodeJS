@@ -1,0 +1,20 @@
+{
+  "name": "option_chain",
+  "version": "1.0.0",
+  "description": "Option Chain Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Surendar Singh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "kiteconnect": "^4.1.0",
+    "mongodb": "^5.0.1",
+    "mongoose": "^6.9.2"
+  }
+}
